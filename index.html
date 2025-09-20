@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>All Country List</title>
+        <link
+            rel="shortcut icon"
+            href="./assets/favicon.png"
+            type="image/x-icon"
+        />
+        <link
+            href="https://cdn.jsdelivr.net/npm/daisyui@latest/dist/full.css"
+            rel="stylesheet"
+        />
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body class="bg-base-200">
+        <div class="p-4 md:p-8">
+            <div
+                class="overflow-x-auto md:w-[95%] lg:w-[90%] mx-auto shadow-2xl rounded-2xl border border-base-content/10"
+            >
+                <table class="table table-lg table-zebra w-full text-base">
+                    <thead>
+                        <tr class="bg-success text-white shadow-md">
+                            <th class="font-bold text-lg">#</th>
+                            <th class="font-bold text-lg">Flag</th>
+                            <th class="font-bold text-lg">Name & Capital</th>
+                            <th class="font-bold text-lg">Region</th>
+                            <th class="font-bold text-lg">Alpha 2</th>
+                            <th class="font-bold text-lg">Alpha 3</th>
+                            <th class="font-bold text-lg">Dial Code</th>
+                            <th class="font-bold text-lg">Timezone</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                    <tfoot>
+                        <tr class="bg-success text-white">
+                            <th
+                                colspan="8"
+                                class="text-center font-normal py-3"
+                            >
+                                Jahidul Islam Jihad
+                            </th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+
+            <div id="loading" class="text-center mt-10 hidden">
+                <span
+                    class="loading loading-dots loading-lg text-primary"
+                ></span>
+            </div>
+        </div>
+        <script src="./script/main.js"></script>
+    </body>
+</html>
