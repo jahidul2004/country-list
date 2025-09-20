@@ -1,8 +1,11 @@
+<img src="https://i.ibb.co.com/1G7d5LjR/image.png">
+
 # 🌍 Country List - Interactive World Database
 
 A comprehensive, responsive web application displaying detailed information about all countries around the world. Built with modern web technologies and featuring an elegant, user-friendly interface.
 
-![Country List Preview](https://img.shields.io/badge/Status-Live-green?style=for-the-badge)
+[![Live Link](https://img.shields.io/badge/Live%20Site-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://all-country-list.surge.sh)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
