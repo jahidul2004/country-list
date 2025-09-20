@@ -224,13 +224,8 @@ If you encounter any issues or have questions:
 
 **Jahidul Islam Jihad**
 
--   Portfolio: [Your Portfolio URL]
--   Email: [Your Email]
--   LinkedIn: [Your LinkedIn]
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
+-   Portfolio: [jahiduljihad.netlify.app]
+-   Email: [islamjahiduljihad@gmail.com]
 
 ---
 
